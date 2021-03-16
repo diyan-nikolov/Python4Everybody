@@ -1,5 +1,3 @@
-
-
 hrs = input("Enter Hours:")
 hrs = float(hrs)
 pph = input("Enter Rate:")
